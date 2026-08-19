@@ -1,4 +1,4 @@
 # Git---Learning
-New Repo
-I am Learning Git and GitHub - DevA
+New Rep
+I am Learning Git and GitHub - DevB
 Working on JIRA Task
